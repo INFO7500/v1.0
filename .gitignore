@@ -104,7 +104,11 @@ dist
 .tern-port
 
 
+# IntelliJ
+out/
 
+# mpeltonen/sbt-idea plugin
+.idea_modules/
 
 
 # Allow a dummy project in this directory for testing purposes
